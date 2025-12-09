@@ -70,7 +70,7 @@ sentry-sdk>=2.9.0
 slack-sdk>=3.27.2
 snuba-sdk>=2.0.33
 simplejson>=3.17.6
-sqlparse>=0.4.4
+sqlparse>=0.5.4
 statsd>=3.3
 structlog>=22
 symbolic==12.8.0
